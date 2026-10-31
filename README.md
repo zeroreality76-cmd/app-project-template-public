@@ -9,7 +9,7 @@ En återanvändbar, teknikneutral mall för att starta och styra webb-/SaaS-proj
 3. Sätt statusen i [kravmatrisen](docs/REQUIREMENTS_MATRIX.md) för varje relevant rad.
 4. Använd [installationskontrollen](docs/operations/SETUP_CHECK.md) innan någon integration eller automation aktiveras.
 
-Mallen är avsedd för ett privat GitHub-template-repository med arbetsnamnet `app-project-template`. Den innehåller inga hemligheter och inga aktiva GitHub Actions-workflows.
+Mallen är publicerad som det privata GitHub-template-repositoryt [`zeroreality76-cmd/app-project-template`](https://github.com/zeroreality76-cmd/app-project-template). Den innehåller inga hemligheter och inga aktiva GitHub Actions-workflows.
 
 ## Principer
 

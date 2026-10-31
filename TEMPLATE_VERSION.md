@@ -2,8 +2,9 @@
 
 - **Namn:** App Project Template
 - **Version:** 0.1.0
-- **Status:** Första lokala paketet
-- **Målrepository:** privat `app-project-template`
+- **Status:** Publicerad privat GitHub-template
+- **Repository:** `zeroreality76-cmd/app-project-template`
+- **URL:** https://github.com/zeroreality76-cmd/app-project-template
 - **Licensläge:** internt/slutet; lägg inte till en öppen licens utan ett uttryckligt beslut.
 
 ## Uppdateringsregel
