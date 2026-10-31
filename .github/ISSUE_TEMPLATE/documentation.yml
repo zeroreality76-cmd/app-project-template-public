@@ -1,0 +1,17 @@
+name: Dokumentation
+description: Registrera saknad, felaktig eller föråldrad dokumentation.
+title: "docs: "
+labels: ["type:documentation", "status:ready"]
+body:
+  - type: textarea
+    id: source
+    attributes:
+      label: Sanningskälla och avvikelse
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Berörda dokument och kontroll
+    validations:
+      required: true

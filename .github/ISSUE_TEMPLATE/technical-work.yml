@@ -1,0 +1,23 @@
+name: Tekniskt arbete
+description: Registrera arkitektur-, drift- eller underhållsarbete.
+title: "tech: "
+labels: ["type:technical", "status:planned"]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Mål och bakgrund
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Föreslagen ändring och alternativ
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verifiering och rollback
+    validations:
+      required: true

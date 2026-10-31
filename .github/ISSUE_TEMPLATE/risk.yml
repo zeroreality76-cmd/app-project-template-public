@@ -1,0 +1,21 @@
+name: Risk
+description: Registrera säkerhets-, leverans- eller kostnadsrisk.
+title: "risk: "
+labels: ["type:risk", "status:blocked"]
+body:
+  - type: textarea
+    id: risk
+    attributes:
+      label: Risk, sannolikhet och konsekvens
+    validations:
+      required: true
+  - type: textarea
+    id: mitigation
+    attributes:
+      label: Föreslagen kontroll och ägare
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Krävt beslut eller stoppvillkor

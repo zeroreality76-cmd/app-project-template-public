@@ -1,0 +1,23 @@
+name: Fel
+description: Rapportera ett reproducerbart fel.
+title: "bug: "
+labels: ["type:bug", "status:ready"]
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduktion
+      description: Miljö, exakta steg, faktisk och förväntad effekt.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Påverkan och risk
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Bevis
+      description: Loggar utan hemligheter, skärmbild eller länk.
