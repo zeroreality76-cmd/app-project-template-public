@@ -2,6 +2,12 @@
 
 Formatet följer principen Keep a Changelog.
 
+## 0.1.2 - 2026-10-31
+
+- Lade till ett samlat beslutsunderlag för projektstart, med val om beställning, målgrupp, data, backend, integrationer, kostnad, drift, test och godkännande.
+- Kopplade beslutsunderlaget till läsordning, dokumentregister, kravmatris och dokumentationskontroll.
+- Synkroniserade mallversionen med ändringsloggen.
+
 ## 0.1.1 - 2026-10-31
 
 - Publicerade den privata GitHub-templaten `zeroreality76-cmd/app-project-template`.

@@ -3,6 +3,7 @@
 | Informationstyp | Sanningskälla | Ägare | Uppdateringsutlösare | Kontroll |
 |---|---|---|---|---|
 | Mål, krav och avgränsning | Projektprofil och kravmatris | Produktägare | Ändrat beslut eller krav | Kravmatrisavstämning |
+| Projektstartens öppna och beslutade val | Projektstart: beslutsunderlag och beslutslogg | Produktägare | Ny beställning, ändrad omfattning eller teknik/data-beslut | Startgrind före byggarbete |
 | Arkitektur och teknikval | Blueprint och ADR | Arkitekt | Nytt tekniskt beslut | ADR-granskning |
 | Operativ status, ansvar, milestone | GitHub när anslutet | Projektledare | Ärende-/statusändring | Länkad statusöversikt |
 | Nuläge och blockerare | Projektstatus | Projektledare | Minst vid betydande ändring | Läsning vid handoff |
