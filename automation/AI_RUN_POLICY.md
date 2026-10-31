@@ -15,3 +15,7 @@ AI får analysera, föreslå, skapa lokala underlag och köra godkända ofarliga
 ## Kostnad och granskning
 
 Varje framtida AI-automation ska ha modell, maximal körfrekvens, token-/kostnadstak, timeout, loggning och mänsklig granskningspunkt i sin automationsspecifikation. Resultat får inte ensamt ändra externa system utan den uttryckligen godkända behörighet som specen beskriver.
+
+## Managerstyrd routing
+
+En manageragent får inom en manuellt startad körning läsa aktuell status och routingmodell, välja nästa roll, skapa lokala arbetsorder och sammanställa ett ägarbeslutsutkast. Den får inte självständigt börja en bakgrundskörning, tilldela externa konton, skapa externa ärenden eller kringgå en blockerad ägarfråga. Sådan extern routing är en framtida, inaktiv automation och kräver AUT-05:s villkor.

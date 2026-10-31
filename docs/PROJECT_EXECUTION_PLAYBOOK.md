@@ -1,6 +1,6 @@
 # Projektgenomförande: ordning från start till release
 
-> Detta är den styrande arbetsgången när ett nytt projekt skapas från mallen. Följ faserna i ordning. Hoppa inte till implementation för att en lösning eller plugin råkar vara tillgänglig. Om ett startvillkor saknas: skapa en ägarfråga och markera arbetet blockerat.
+> Detta är den styrande arbetsgången när ett nytt projekt skapas från mallen. [Projektledaragenten](AGENT_ORCHESTRATION.md) äger ordningen och handoff mellan rollerna. Följ faserna i ordning. Hoppa inte till implementation för att en lösning eller plugin råkar vara tillgänglig. Om ett startvillkor saknas: skapa en ägarfråga och markera arbetet blockerat.
 
 ## Första regeln
 

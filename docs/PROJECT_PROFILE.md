@@ -7,6 +7,8 @@
 | Projektnamn | `[[NAMN]]` |
 | Mallversion | `[[TEMPLATE_VERSION]]` |
 | Produktägare och beslutsägare | `[[NAMN/KONTO]]` |
+| Projektledaragent/manager | `[[ROLL/AGENT]]` |
+| Arkitektagent | `[[ROLL/AGENT]]` |
 | Målgrupp och problem | `[[BESKRIVNING]]` |
 | Mål och framgångskriterier | `[[MÄTBARA KRITERIER]]` |
 | Inom omfattning | `[[INNEHÅLL]]` |

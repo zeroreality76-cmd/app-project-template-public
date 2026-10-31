@@ -2,6 +2,12 @@
 
 Formatet följer principen Keep a Changelog.
 
+## 0.1.4 - 2026-10-31
+
+- Lade till manager-/arkitektrouting som samordnar projektfaser, arbetsorder, handoff, risker och eskalering till rätt roll.
+- Införde uttryckliga ägargrindar för ekonomi, omfattning, data, åtkomst och extern påverkan.
+- Lade till den inaktiva automationsposten AUT-05 för framtida extern manager-routing med dubblettskydd och manuell reservrutin.
+
 ## 0.1.3 - 2026-10-31
 
 - Lade till en projektgenomförandeplan med faser, startgrindar, obligatoriska indata och ordning från uppdrag till release.

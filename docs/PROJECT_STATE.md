@@ -6,6 +6,7 @@
 - **Senast verifierad:** `[[DATUM OCH KONTROLL]]`
 - **Nästa milestone:** `[[MILESTONE]]`
 - **Nästa konkreta steg:** `[[ÅTGÄRD OCH ÄGARE]]`
+- **Managerns nästa routing:** `[[UPPGIFT → ROLL ELLER ÄGARFRÅGA]]`
 
 ## Blockerare och tidsrisker
 
