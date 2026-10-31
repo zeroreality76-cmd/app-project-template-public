@@ -9,6 +9,7 @@ Uppdatera varje rad när arbetet ändras. En rad är inte färdig utan verifieri
 | GOV-03 | Oförändrad basplan | Separata basplan- och prognosdokument | Scenariogenomgång, scenario 3 | Förberedd | `[[FYLLS I]]` |
 | GOV-04 | Kontrollerad färdigmarkering | Definition av klart och verifieringsnivåer | Statisk granskning | Förberedd | `[[FYLLS I]]` |
 | GOV-05 | Styrd projektstart med tydliga val | Projektstartens beslutsunderlag för syfte, data, backend, kostnad och leverans | Statisk dokumentkontroll + startgrind per projekt | Förberedd | [Projektstart: beslutsunderlag](PROJECT_DECISION_WORKBOOK.md) |
+| GOV-06 | Rätt ordning och behovsstyrda verktygsval | Projektgenomförandeplan och urvalsblad för skills/plugins | Statisk dokumentkontroll + fasgranskning per projekt | Förberedd | [Projektgenomförandeplan](PROJECT_EXECUTION_PLAYBOOK.md) |
 | PROD-01 | Krav till byggbart underlag | Produkt- och arkitekturmallar | Scenariogenomgång | Förberedd | `[[FYLLS I]]` |
 | PROD-02 | Tillgängligt användarflöde | Flödes-, designsystem- och tillgänglighetsmallar | Granskning per projekt | Förberedd | `[[FYLLS I]]` |
 | SEC-01 | Säker grundnivå | Säkerhetsbas och hotbedömning | Säkerhetscheck | Förberedd | `[[FYLLS I]]` |

@@ -4,11 +4,12 @@ En återanvändbar, teknikneutral mall för att starta och styra webb-/SaaS-proj
 
 ## Start
 
-1. Läs [Börja här](docs/START_HERE.md).
-2. Fyll i [projektprofilen](docs/PROJECT_PROFILE.md).
+1. Läs [projektgenomförandeplanen](docs/PROJECT_EXECUTION_PLAYBOOK.md) och [Börja här](docs/START_HERE.md).
+2. Fyll i [projektprofilen](docs/PROJECT_PROFILE.md) och samla saknade beställningsunderlag.
 3. Fatta eller eskalera avgörande val i [projektstartens beslutsunderlag](docs/PROJECT_DECISION_WORKBOOK.md).
-4. Sätt statusen i [kravmatrisen](docs/REQUIREMENTS_MATRIX.md) för varje relevant rad.
-5. Använd [installationskontrollen](docs/operations/SETUP_CHECK.md) innan någon integration eller automation aktiveras.
+4. Inventera och välj relevanta [skills, plugins och verktyg](docs/PROJECT_TOOL_SELECTION.md) för just projektet.
+5. Sätt statusen i [kravmatrisen](docs/REQUIREMENTS_MATRIX.md) för varje relevant rad.
+6. Använd [installationskontrollen](docs/operations/SETUP_CHECK.md) innan någon integration eller automation aktiveras.
 
 Mallen är publicerad som det privata GitHub-template-repositoryt [`zeroreality76-cmd/app-project-template`](https://github.com/zeroreality76-cmd/app-project-template). Den innehåller inga hemligheter och inga aktiva GitHub Actions-workflows.
 

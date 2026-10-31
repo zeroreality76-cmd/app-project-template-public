@@ -1,7 +1,7 @@
 # Mallversion
 
 - **Namn:** App Project Template
-- **Version:** 0.1.2
+- **Version:** 0.1.3
 - **Status:** Publicerad privat GitHub-template
 - **Repository:** `zeroreality76-cmd/app-project-template`
 - **URL:** https://github.com/zeroreality76-cmd/app-project-template
