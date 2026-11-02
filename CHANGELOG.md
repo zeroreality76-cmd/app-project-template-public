@@ -2,6 +2,12 @@
 
 Formatet följer principen Keep a Changelog.
 
+## 0.2.0 - 2026-11-02
+
+- Skapade en offentlig beta-utgåva för återanvändning via GitHubs template-funktion.
+- Lade till MIT-licens, publik README, riktlinjer för bidrag och säkerhetsrapportering.
+- Tog bort hänvisningen till den privata huvudmallen från den publika startsidan.
+
 ## 0.1.4 - 2026-10-31
 
 - Lade till manager-/arkitektrouting som samordnar projektfaser, arbetsorder, handoff, risker och eskalering till rätt roll.
@@ -22,7 +28,7 @@ Formatet följer principen Keep a Changelog.
 
 ## 0.1.1 - 2026-10-31
 
-- Publicerade den privata GitHub-templaten `zeroreality76-cmd/app-project-template`.
+- Publicerade den första privata templateutgåvan.
 - Markerade repositoryt som GitHub-template och bekräftade att `main` är synkad med `origin/main`.
 
 ## 0.1.0 - 2026-10-31

@@ -1,11 +1,11 @@
 # Mallversion
 
 - **Namn:** App Project Template
-- **Version:** 0.1.4
-- **Status:** Publicerad privat GitHub-template
-- **Repository:** `zeroreality76-cmd/app-project-template`
-- **URL:** https://github.com/zeroreality76-cmd/app-project-template
-- **Licensläge:** internt/slutet; lägg inte till en öppen licens utan ett uttryckligt beslut.
+- **Version:** 0.2.0
+- **Status:** Offentlig GitHub-template, beta
+- **Repository:** `zeroreality76-cmd/app-project-template-public`
+- **URL:** https://github.com/zeroreality76-cmd/app-project-template-public
+- **Licens:** MIT. Se [LICENSE](LICENSE).
 
 ## Uppdateringsregel
 
